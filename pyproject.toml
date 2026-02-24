@@ -1,7 +1,7 @@
 [project]
 name = "contenedor"
 version = "0.1.0"
-description = "Add your description here"
+description = "Proyecto de uv sobre un contador, usando todas las maneras de correr el programa - Romo Alvardo Luis Angel 23308060610320"
 readme = "README.md"
 requires-python = ">=3.13"
 dependencies = [
